@@ -14,8 +14,8 @@ function App() {
       <Credits/>
       <Canvas>
         <Cubes />
-        <Lights />
-        <Environment />
+        {/* <Lights />
+        <Environment /> */}
       </Canvas>
     </>
   );
